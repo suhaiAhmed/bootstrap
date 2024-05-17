@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+*{
+    padding: 0;
+
+    margin: 0;
+
+}
+
+header{
+    font-family: "Patrick Hand", cursive;
+}
+.text-green{
+    color: #369D6C;
+}
+.bg-green{
+    background-color: #369D6C;
+}
+main{
+    font-family: "Patrick Hand", cursive;
+
+}
+.header-section{
+    height: 100%;
+    background: linear-gradient(rgba(8, 0, 0, 0.7), rgba(5, 0, 0, 0.7)), url('./30dcaefa27bdc90ecc438a420861d3f5.jpeg');
+    background-size: cover;
+}
